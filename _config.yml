@@ -1,7 +1,7 @@
 # Setup
 title:               Apple Dispatch
 tagline:             'Premier indie publishing'
-description:         '<a href="https://appledispatch.github.io" target="_blank">Apple Dispatch</a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
+description:         '<a href="https://appledispatch.github.io" target="_blank"><i>Apple Dispatch</i></a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
 url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
