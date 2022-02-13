@@ -10,8 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Apple Dispatch
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               # https://twitter.com/mdo
+  email:             # markdotto@gmail.com
 
 # Gems
 plugins:
