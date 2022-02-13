@@ -1,7 +1,7 @@
 # Setup
 title:               Apple Dispatch
 tagline:             'reports from the field'
-description:         '<a href="https://appledispatch.github.io"><strong>Apple Dispatch</strong></a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
+description:         '<a href="https://appledispatch.github.io"><strong>Apple Dispatch</strong></a> features indie publishing on the Apple platform and beyond.'
 url:                 https://appledispatch.github.io
 baseurl:             ''
 paginate:            5
