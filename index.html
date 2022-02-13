@@ -14,6 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
+      {% for post in site.posts %}
       {{ post.excerpt }}
   </div>
   {% endfor %}
