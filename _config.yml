@@ -1,7 +1,7 @@
 # Setup
 title:               Apple Dispatch
 tagline:             'Reports from the field'
-description:         '<a href="https://appledispatch.github.io" target="_blank"><strong>Apple Dispatch</strong></a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
+description:         '<a href="https://appledispatch.github.io"><strong>Apple Dispatch</strong></a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
 url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
