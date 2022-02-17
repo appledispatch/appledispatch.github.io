@@ -1,13 +1,4 @@
 # Setup
----
-excerpt_separator: <!--more-->
----
-
-Excerpt with multiple paragraphs
-
-Here's another paragraph in the excerpt.
-<!--end_excerpt-->
-
 title:               Apple Dispatch
 tagline:             'Indie publishing on the Apple platform'
 description:         '<a href="https://appledispatch.github.io"><strong>Apple Dispatch</strong></a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
