@@ -1,4 +1,16 @@
 # Setup
+---
+excerpt_separator: <!--end_excerpt-->
+---
+
+This is included in excerpts.
+
+This is also included in excerpts.
+
+<!--end_excerpt-->
+
+But this is not.
+
 title:               Apple Dispatch
 tagline:             'Indie publishing on the Apple platform'
 description:         '<a href="https://appledispatch.github.io"><strong>Apple Dispatch</strong></a> features independent writing on exceptional technologies in the Apple ecosystem and beyond.'
