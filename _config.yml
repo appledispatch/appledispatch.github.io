@@ -1,13 +1,13 @@
 # Setup
-excerpt_separator: <!--end_excerpt-->
+---
+excerpt_separator: <!--more-->
+---
 
-This is included in excerpts.
+Excerpt with multiple paragraphs
 
-This is also included in excerpts.
-
-<!--end_excerpt-->
-
-But this is not.
+Here's another paragraph in the excerpt.
+<!--more-->
+Out-of-excerpt
 
 title:               Apple Dispatch
 tagline:             'Indie publishing on the Apple platform'
